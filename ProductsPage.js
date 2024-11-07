@@ -1,4 +1,4 @@
-// pages/ProductsPage.js
+
 const fs = require('fs');
 
 class ProductsPage {
